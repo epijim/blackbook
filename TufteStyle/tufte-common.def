@@ -398,9 +398,9 @@
 
 % Paragraph indentation and separation for normal text
 \newcommand{\@tufte@reset@par}{%
-  \setlength{\RaggedRightParindent}{1.0pc}%
-  \setlength{\parindent}{1pc}%
-  \setlength{\parskip}{0pt}%
+  \setlength{\RaggedRightParindent}{0.0pc}%
+  \setlength{\parindent}{0pt}% REMOVE INDENT!
+  \setlength{\parskip}{2pt}%
 }
 \@tufte@reset@par
 
@@ -1478,7 +1478,7 @@
   \global\@topnum\z@% prevent floats from being placed at the top of the page
   \begingroup
   \setlength{\parindent}{0pt}
-  \setlength{\parskip}{4pt}
+  \setlength{\parskip}{2pt}
   \ifthenelse{\boolean{@tufte@sfsidenotes}}
     {\begingroup
       % FIXME fails with \thanks
@@ -1535,7 +1535,7 @@
   [hang]% shape
   {\normalfont\Large\itshape}% format applied to label+text
   {\thesection}% label
-  {1em}% horizontal separation between label and title body
+  {0.5em}% horizontal separation between label and title body
   {}% before the title body
   []% after the title body
 

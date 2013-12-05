@@ -1,0 +1,44 @@
+\contentsline {chapter}{Vege curries}{11}{chapter*.3}
+\contentsline {section}{Fried potatoes}{11}{section*.4}
+\contentsline {section}{Curried carrots}{11}{section*.5}
+\contentsline {section}{Spinach and coconut cream}{11}{section*.6}
+\contentsline {section}{Leek curry with cashew nuts}{12}{section*.7}
+\contentsline {chapter}{Meat curries}{13}{chapter*.8}
+\contentsline {chapter}{The Design of Tufte's Books}{15}{chapter*.9}
+\contentsline {section}{Typefaces}{19}{section*.10}
+\contentsline {section}{Headings}{19}{section*.11}
+\contentsline {paragraph}{Paragraph}{19}{paragraph*.12}
+\contentsline {section}{Environments}{19}{section*.13}
+\contentsline {chapter}{On the Use of the tufte-book Document Class}{21}{chapter*.14}
+\contentsline {section}{Page Layout}{21}{section*.15}
+\contentsline {subsection}{Headings}{21}{subsection*.16}
+\contentsline {section}{Sidenotes}{21}{section*.17}
+\contentsline {section}{References}{22}{section*.18}
+\contentsline {section}{Figures and Tables}{23}{section*.19}
+\contentsline {section}{Captions}{25}{section*.20}
+\contentsline {paragraph}{Vertical alignment}{25}{paragraph*.21}
+\contentsline {paragraph}{Horizontal alignment}{26}{paragraph*.22}
+\contentsline {section}{Full-width text blocks}{26}{section*.23}
+\contentsline {section}{Typography}{26}{section*.24}
+\contentsline {subsection}{Typefaces}{26}{subsection*.25}
+\contentsline {subsection}{Letterspacing}{26}{subsection*.26}
+\contentsline {section}{Document Class Options}{27}{section*.27}
+\contentsline {chapter}{Customizing Tufte-LaTeX}{29}{chapter*.28}
+\contentsline {section}{File Hooks}{29}{section*.29}
+\contentsline {section}{Numbered Section Headings}{29}{section*.30}
+\contentsline {section}{Changing the Paper Size}{30}{section*.31}
+\contentsline {section}{Customizing Marginal Material}{30}{section*.32}
+\contentsline {chapter}{Compatibility Issues}{33}{chapter*.33}
+\contentsline {section}{Converting from \texttt {article} to \texttt {tufte-handout}}{33}{section*.34}
+\contentsline {section}{Converting from \texttt {book} to \texttt {tufte-book}}{33}{section*.35}
+\contentsline {chapter}{Troubleshooting and Support}{35}{chapter*.36}
+\contentsline {section}{Tufte-\LaTeX \xspace Website}{35}{section*.37}
+\contentsline {section}{Tufte-\LaTeX \xspace Mailing Lists}{35}{section*.38}
+\contentsline {paragraph}{Discussion list}{35}{paragraph*.39}
+\contentsline {paragraph}{Commits list}{35}{paragraph*.40}
+\contentsline {section}{Getting Help}{35}{section*.41}
+\contentsline {section}{Errors, Warnings, and Informational Messages}{36}{section*.42}
+\contentsline {section}{Package Dependencies}{37}{section*.43}
+\contentsline {chapter}{Bibliography}{39}{chapter*.44}
+\contentsline {chapter}{Index}{41}{chapter*.45}
+\contentsfinish 
