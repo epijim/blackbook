@@ -737,8 +737,14 @@
 % An environment for paragraph-style section
 
 \providecommand\newthought[1]{%
-   \addvspace{1.0\baselineskip plus 0.5ex minus 0.2ex}%
-   \noindent\textsc{#1}%
+   %\addvspace{1.0\baselineskip plus 0.5ex minus 0.2ex}%
+    \addvspace{1.0\baselineskip plus 0.5ex minus 0.2ex}%
+    \noindent\textsc{#1}%
+}
+
+\providecommand\newpart[1]{%
+   %\addvspace{1.0\baselineskip plus 0.5ex minus 0.2ex}%
+    \noindent\textsc{#1}%
 }
 
 %%
@@ -1533,9 +1539,9 @@
 
 \titleformat{\section}%
   [hang]% shape
-  {\normalfont\Large\itshape}% format applied to label+text
+  {\normalfont\LARGE\itshape}% format applied to label+text
   {\thesection}% label
-  {0.5em}% horizontal separation between label and title body
+  {1.5em}% horizontal separation between label and title body
   {}% before the title body
   []% after the title body
 
