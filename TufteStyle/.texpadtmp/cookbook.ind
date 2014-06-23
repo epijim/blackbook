@@ -1,21 +1,31 @@
 \begin{theindex}
 
+  \item Blue cheese
+    \subitem spinach and pear salad, \hyperpage{18}
+
+  \indexspace
+
   \item Carrot
     \subitem curried, \hyperpage{23}
+  \item carrot
+    \subitem Sambal, \hyperpage{23}
   \item Chicken
-    \subitem baked with potato \& peppers, \hyperpage{20}
-    \subitem Nana's curry, \hyperpage{28}
-    \subitem Thai curry, \hyperpage{29}
+    \subitem baked with potato \& peppers, \hyperpage{21}
+    \subitem Nana's curry, \hyperpage{29}
+    \subitem Thai curry, \hyperpage{31}
   \item Courgette
     \subitem ribbons with parmesan, \hyperpage{15}
 
   \indexspace
 
   \item Dessert
-    \subitem pumpkin pie, \hyperpage{31}
+    \subitem German mess, \hyperpage{34}
+    \subitem pumpkin pie, \hyperpage{33}
 
   \indexspace
 
+  \item Eggplant
+    \subitem Nana's brinjal, \hyperpage{27}
   \item European sides
     \subitem roast potatoes with lemon, \hyperpage{15}
 
@@ -27,6 +37,7 @@
   \indexspace
 
   \item Lamb
+    \subitem curry, \hyperpage{31}
     \subitem Moroccan stew, \hyperpage{21}
   \item Leek
     \subitem cashew nuts, \hyperpage{24}
@@ -34,21 +45,23 @@
   \indexspace
 
   \item Mains
-    \subitem Baked chicken, \hyperpage{20}
+    \subitem Baked chicken, \hyperpage{21}
     \subitem Moroccan lamb, \hyperpage{21}
     \subitem paella, \hyperpage{20}
     \subitem Phat thai, \hyperpage{19}
     \subitem pork pie, \hyperpage{21}
   \item Meat curries
-    \subitem Nana's chicken, \hyperpage{28}
-    \subitem Thai chicken, \hyperpage{29}
+    \subitem Lamb, \hyperpage{31}
+    \subitem Nana's chicken, \hyperpage{29}
+    \subitem Thai chicken, \hyperpage{31}
 
   \indexspace
 
   \item Nana's
-    \subitem chicken curry, \hyperpage{28}
+    \subitem brinjal, \hyperpage{27}
+    \subitem chicken curry, \hyperpage{29}
     \subitem Curried vegetables, \hyperpage{27}
-    \subitem dahl, \hyperpage{27}
+    \subitem dahl, \hyperpage{28}
   \item Noodles
     \subitem Phat thai, \hyperpage{19}
 
@@ -56,7 +69,7 @@
 
   \item Pie
     \subitem pork \& prune, \hyperpage{21}
-    \subitem pumpkin, \hyperpage{31}
+    \subitem pumpkin, \hyperpage{33}
   \item Pork
     \subitem \& prune, \hyperpage{21}
   \item Potato
@@ -64,7 +77,7 @@
     \subitem roasted with lemon and olives, \hyperpage{15}
   \item Pumpkin
     \subitem curry, \hyperpage{24}
-    \subitem pie, \hyperpage{31}
+    \subitem pie, \hyperpage{33}
     \subitem stew, \hyperpage{17}
 
   \indexspace
@@ -74,30 +87,37 @@
 
   \indexspace
 
+  \item Salads
+    \subitem carrot sambal, \hyperpage{23}
+    \subitem spinach, blue cheese and pear salad, \hyperpage{18}
   \item Seafood
     \subitem paella, \hyperpage{20}
   \item Sides
     \subitem courgette ribbons, \hyperpage{15}
   \item Spinach
+    \subitem blue cheese and pear salad, \hyperpage{18}
     \subitem coconut cream, \hyperpage{24}
     \subitem couscous, feta and almonds, \hyperpage{17}
   \item Starters
     \subitem beetroot hummus, \hyperpage{13}
   \item Stew
     \subitem Moroccan, \hyperpage{21}
-    \subitem pork and prune, \hyperpage{20, 21}
+    \subitem pork and prune, \hyperpage{21}
 
   \indexspace
 
   \item Vegetarian
     \subitem couscous with spinach, feta and almonds, \hyperpage{17}
     \subitem pumpkin stew, \hyperpage{17}
+    \subitem spinach, blue cheese and pear salad, \hyperpage{18}
   \item Vegetarian curries
+    \subitem carrot sambal, \hyperpage{23}
     \subitem curried carrots, \hyperpage{23}
     \subitem fried potatoes, \hyperpage{23}
     \subitem leek and cashew, \hyperpage{24}
     \subitem Nana's, \hyperpage{27}
-    \subitem Nana's dahl, \hyperpage{27}
+    \subitem Nana's brinjal, \hyperpage{27}
+    \subitem Nana's dahl, \hyperpage{28}
     \subitem pumpkin curry, \hyperpage{24}
     \subitem spinach \& coconut cream, \hyperpage{24}
 

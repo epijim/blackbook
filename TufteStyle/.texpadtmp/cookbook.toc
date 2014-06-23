@@ -6,25 +6,30 @@
 \contentsline {chapter}{Vegetarian}{17}{chapter*.8}
 \contentsline {section}{Buttercup pumpkin, corn and bean stew}{17}{section*.9}
 \contentsline {section}{Couscous with spinach, almonds and feta}{17}{section*.10}
-\contentsline {chapter}{Mains}{19}{chapter*.11}
-\contentsline {section}{Phat thai}{19}{section*.12}
-\contentsline {section}{Paella}{20}{section*.13}
-\contentsline {section}{Baked chicken, potato and peppers}{20}{section*.14}
-\contentsline {section}{Pork and Prune Pie}{21}{section*.15}
-\contentsline {section}{Moroccan lamb}{21}{section*.16}
-\contentsline {chapter}{Vegatarian curries}{23}{chapter*.17}
-\contentsline {section}{Fried potatoes}{23}{section*.18}
-\contentsline {section}{Curried carrots}{23}{section*.19}
-\contentsline {section}{Spinach and coconut cream}{24}{section*.20}
-\contentsline {section}{Leek curry with cashew nuts}{24}{section*.21}
-\contentsline {section}{Pumpkin curry}{24}{section*.22}
-\contentsline {chapter}{Nana's curries}{27}{chapter*.23}
-\contentsline {section}{Curried vegetables}{27}{section*.24}
-\contentsline {section}{Nana's dahl}{27}{section*.25}
-\contentsline {section}{Nana's chicken curry}{28}{section*.26}
-\contentsline {chapter}{Meat curries}{29}{chapter*.27}
-\contentsline {section}{Thai chicken curry}{29}{section*.28}
-\contentsline {chapter}{Dessert}{31}{chapter*.29}
-\contentsline {section}{Pumpkin pie}{31}{section*.30}
-\contentsline {chapter}{Index}{35}{chapter*.31}
+\contentsline {section}{Spinach, blue cheese and pear salad}{18}{section*.11}
+\contentsline {chapter}{Mains}{19}{chapter*.12}
+\contentsline {section}{Phat thai}{19}{section*.13}
+\contentsline {section}{Paella}{20}{section*.14}
+\contentsline {section}{Baked chicken, potato and peppers}{21}{section*.15}
+\contentsline {section}{Pork and Prune Pie}{21}{section*.16}
+\contentsline {section}{Moroccan lamb}{21}{section*.17}
+\contentsline {chapter}{Vegatarian curries}{23}{chapter*.18}
+\contentsline {section}{Carrot sambal}{23}{section*.19}
+\contentsline {section}{Fried potatoes}{23}{section*.20}
+\contentsline {section}{Curried carrots}{23}{section*.21}
+\contentsline {section}{Spinach and coconut cream}{24}{section*.22}
+\contentsline {section}{Leek curry with cashew nuts}{24}{section*.23}
+\contentsline {section}{Pumpkin curry}{24}{section*.24}
+\contentsline {chapter}{Nana's curries}{27}{chapter*.25}
+\contentsline {section}{Nana's brinjal}{27}{section*.26}
+\contentsline {section}{Curried vegetables}{27}{section*.27}
+\contentsline {section}{Nana's dahl}{28}{section*.28}
+\contentsline {section}{Nana's chicken curry}{29}{section*.29}
+\contentsline {chapter}{Meat curries}{31}{chapter*.30}
+\contentsline {section}{Lamb curry}{31}{section*.31}
+\contentsline {section}{Thai chicken curry}{31}{section*.32}
+\contentsline {chapter}{Dessert}{33}{chapter*.33}
+\contentsline {section}{Pumpkin pie}{33}{section*.34}
+\contentsline {section}{German mess}{34}{section*.35}
+\contentsline {chapter}{Index}{37}{chapter*.36}
 \contentsfinish 
