@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 APR 2014 13:19
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 AUG 2014 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -674,29 +674,29 @@ File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 
 ] [10
 
-] <graphics/vdqi-title.pdf, id=209, 614.295pt x 758.835pt>
-File: graphics/vdqi-title.pdf Graphic file (type pdf)
- <use graphics/vdqi-title.pdf>
-Package pdftex.def Info: graphics/vdqi-title.pdf used on input line 246.
-(pdftex.def)             Requested size: 216.00005pt x 266.8236pt.
- <graphics/germanmess_cover.png, id=210, 459.7175pt x 583.17876pt>
+] <graphics/breadcrumb_cover.png, id=217, 1093.08376pt x 1395.2125pt>
+File: graphics/breadcrumb_cover.png Graphic file (type png)
+ <use graphics/breadcrumb_cover.png>
+Package pdftex.def Info: graphics/breadcrumb_cover.png used on input line 246.
+(pdftex.def)             Requested size: 215.99426pt x 275.69514pt.
+ <graphics/germanmess_cover.png, id=219, 459.7175pt x 583.17876pt>
 File: graphics/germanmess_cover.png Graphic file (type png)
  <use graphics/germanmess_cover.png>
 Package pdftex.def Info: graphics/germanmess_cover.png used on input line 248.
 (pdftex.def)             Requested size: 216.00412pt x 274.01396pt.
- <graphics/carrotraita_cover.png, id=212, 494.84875pt x 636.3775pt>
+ <graphics/carrotraita_cover.png, id=220, 494.84875pt x 636.3775pt>
 File: graphics/carrotraita_cover.png Graphic file (type png)
  <use graphics/carrotraita_cover.png>
 Package pdftex.def Info: graphics/carrotraita_cover.png used on input line 250.
-(pdftex.def)             Requested size: 215.99744pt x 277.77359pt.
- <graphics/be-title.pdf, id=213, 614.295pt x 758.835pt>
+(pdftex.def)             Requested size: 215.5444pt x 277.19096pt.
+ <graphics/be-title.pdf, id=221, 614.295pt x 758.835pt>
 File: graphics/be-title.pdf Graphic file (type pdf)
  <use graphics/be-title.pdf>
 Package pdftex.def Info: graphics/be-title.pdf used on input line 252.
 (pdftex.def)             Requested size: 216.00005pt x 266.8236pt.
- [11 <./graphics/vdqi-title.pdf> <./graphics/germanmess_cover.png> <./graphics/carrotraita_cover.png> <./graphics/be-title.pdf>] [12
+ [11 <./graphics/breadcrumb_cover.png> <./graphics/germanmess_cover.png> <./graphics/carrotraita_cover.png> <./graphics/be-title.pdf>] [12
 
-] <graphics/beetroothummus.png, id=254, 1027.84pt x 578.16pt>
+] <graphics/beetroothummus.png, id=239, 1027.84pt x 578.16pt>
 File: graphics/beetroothummus.png Graphic file (type png)
  <use graphics/beetroothummus.png>
 Package pdftex.def Info: graphics/beetroothummus.png used on input line 265.
@@ -739,134 +739,144 @@ LaTeX Warning: Marginpar on page 18 moved.
 
 LaTeX Warning: Marginpar on page 18 moved.
 
-[18]
+[18] <graphics/breadcrumbpasta.png, id=266, 2698.08pt x 986.68625pt>
+File: graphics/breadcrumbpasta.png Graphic file (type png)
+ <use graphics/breadcrumbpasta.png>
+Package pdftex.def Info: graphics/breadcrumbpasta.png used on input line 411.
+(pdftex.def)             Requested size: 479.99326pt x 175.53323pt.
+ [19
 
-LaTeX Warning: Marginpar on page 19 moved.
-
-
-Overfull \hbox (12.85974pt too wide) in paragraph at lines 435--436
+ <./graphics/breadcrumbpasta.png>] [20]
+Overfull \hbox (12.85974pt too wide) in paragraph at lines 461--462
 []\T1/pplj/m/n/10 Stir through the noo-dles, and add the radish, dried shrimp, beansprouts, 
  []
 
-
-Underfull \vbox (badness 1137) has occurred while \output is active []
-
- [19
-
-] <graphics/paella.png, id=286, 1024.82875pt x 241.90375pt>
+<graphics/paella.png, id=277, 1024.82875pt x 241.90375pt>
 File: graphics/paella.png Graphic file (type png)
  <use graphics/paella.png>
-Package pdftex.def Info: graphics/paella.png used on input line 440.
+Package pdftex.def Info: graphics/paella.png used on input line 466.
 (pdftex.def)             Requested size: 479.99635pt x 113.29982pt.
 
 
-LaTeX Warning: Marginpar on page 20 moved.
+LaTeX Warning: Marginpar on page 21 moved.
 
-
-LaTeX Warning: Marginpar on page 20 moved.
-
-
-LaTeX Warning: Marginpar on page 20 moved.
-
-<graphics/helix.pdf, id=287, 221.8689pt x 201.71361pt>
-File: graphics/helix.pdf Graphic file (type pdf)
- <use graphics/helix.pdf>
-Package pdftex.def Info: graphics/helix.pdf used on input line 469.
-(pdftex.def)             Requested size: 144.00317pt x 130.92145pt.
-
-
-LaTeX Warning: Marginpar on page 20 moved.
-
-[20 <./graphics/paella.png> <./graphics/helix.pdf>]
 
 LaTeX Warning: Marginpar on page 21 moved.
 
-[21]
+<graphics/paellahigh.png, id=278, 2022.55624pt x 1755.55875pt>
+File: graphics/paellahigh.png Graphic file (type png)
+ <use graphics/paellahigh.png>
+Package pdftex.def Info: graphics/paellahigh.png used on input line 494.
+(pdftex.def)             Requested size: 143.96974pt x 124.96431pt.
+
+
+LaTeX Warning: Marginpar on page 21 moved.
+
+
+LaTeX Warning: Marginpar on page 21 moved.
+
+[21 <./graphics/paella.png> <./graphics/paellahigh.png>]
 
 LaTeX Warning: Marginpar on page 22 moved.
 
-[22] <graphics/carrotraita.png, id=311, 558.085pt x 542.025pt>
-File: graphics/carrotraita.png Graphic file (type png)
- <use graphics/carrotraita.png>
-Package pdftex.def Info: graphics/carrotraita.png used on input line 555.
-(pdftex.def)             Requested size: 144.00015pt x 139.85626pt.
-File: graphics/helix.pdf Graphic file (type pdf)
- <use graphics/helix.pdf>
-Package pdftex.def Info: graphics/helix.pdf used on input line 586.
-(pdftex.def)             Requested size: 144.00317pt x 130.92145pt.
 
+LaTeX Warning: Marginpar on page 22 moved.
+
+[22]
 
 LaTeX Warning: Marginpar on page 23 moved.
 
-[23
+[23] [24
 
- <./graphics/carrotraita.png>] <graphics/sine.pdf, id=318, 505.89pt x 51.04068pt>
-File: graphics/sine.pdf Graphic file (type pdf)
- <use graphics/sine.pdf>
-Package pdftex.def Info: graphics/sine.pdf used on input line 610.
-(pdftex.def)             Requested size: 480.0061pt x 48.42917pt.
- [24 <./graphics/sine.pdf>]
+] <graphics/carrotraita.png, id=297, 558.085pt x 542.025pt>
+File: graphics/carrotraita.png Graphic file (type png)
+ <use graphics/carrotraita.png>
+Package pdftex.def Info: graphics/carrotraita.png used on input line 583.
+(pdftex.def)             Requested size: 144.00015pt x 139.85626pt.
+ <graphics/helix.pdf, id=298, 221.8689pt x 201.71361pt>
+File: graphics/helix.pdf Graphic file (type pdf)
+ <use graphics/helix.pdf>
+Package pdftex.def Info: graphics/helix.pdf used on input line 614.
+(pdftex.def)             Requested size: 144.00317pt x 130.92145pt.
+
 
 LaTeX Warning: Marginpar on page 25 moved.
 
-[25] [26
-
-] <graphics/eggplantcurry.png, id=337, 1021.8175pt x 274.02374pt>
-File: graphics/eggplantcurry.png Graphic file (type png)
- <use graphics/eggplantcurry.png>
-Package pdftex.def Info: graphics/eggplantcurry.png used on input line 702.
-(pdftex.def)             Requested size: 311.9891pt x 83.667pt.
-
+[25 <./graphics/carrotraita.png> <./graphics/helix.pdf>] <graphics/sine.pdf, id=317, 505.89pt x 51.04068pt>
+File: graphics/sine.pdf Graphic file (type pdf)
+ <use graphics/sine.pdf>
+Package pdftex.def Info: graphics/sine.pdf used on input line 638.
+(pdftex.def)             Requested size: 480.0061pt x 48.42917pt.
+ [26 <./graphics/sine.pdf>]
 
 LaTeX Warning: Marginpar on page 27 moved.
 
-[27 <./graphics/eggplantcurry.png>]
+[27] [28
 
-LaTeX Warning: Marginpar on page 28 moved.
+] <graphics/eggplantcurry.png, id=336, 1021.8175pt x 274.02374pt>
+File: graphics/eggplantcurry.png Graphic file (type png)
+ <use graphics/eggplantcurry.png>
+Package pdftex.def Info: graphics/eggplantcurry.png used on input line 730.
+(pdftex.def)             Requested size: 311.9891pt x 83.667pt.
 
 
-LaTeX Warning: Marginpar on page 28 moved.
+LaTeX Warning: Marginpar on page 29 moved.
+
+[29 <./graphics/eggplantcurry.png>]
+
+LaTeX Warning: Marginpar on page 30 moved.
+
+
+LaTeX Warning: Marginpar on page 30 moved.
 
 
 Underfull \vbox (badness 5036) has occurred while \output is active []
 
- [28] [29] [30
+ [30] [31] [32
 
 ]
 
-LaTeX Warning: Marginpar on page 31 moved.
-
-
-LaTeX Warning: Marginpar on page 31 moved.
-
-[31] [32] <graphics/pumpkinpie.jpg, id=364, 2007.5pt x 555.07375pt>
-File: graphics/pumpkinpie.jpg Graphic file (type jpg)
- <use graphics/pumpkinpie.jpg>
-Package pdftex.def Info: graphics/pumpkinpie.jpg used on input line 848.
-(pdftex.def)             Requested size: 480.00256pt x 132.7207pt.
+LaTeX Warning: Marginpar on page 33 moved.
 
 
 LaTeX Warning: Marginpar on page 33 moved.
 
-[33
+[33] <graphics/britcurry.png, id=359, 2666.96375pt x 1281.78876pt>
+File: graphics/britcurry.png Graphic file (type png)
+ <use graphics/britcurry.png>
+Package pdftex.def Info: graphics/britcurry.png used on input line 875.
+(pdftex.def)             Requested size: 479.99207pt x 230.69246pt.
+ [34 <./graphics/britcurry.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- <./graphics/pumpkinpie.jpg>] <graphics/pumpkinpiesquare.png, id=369, 686.565pt x 681.54625pt>
+ [35] [36] <graphics/pumpkinpie.jpg, id=373, 2007.5pt x 555.07375pt>
+File: graphics/pumpkinpie.jpg Graphic file (type jpg)
+ <use graphics/pumpkinpie.jpg>
+Package pdftex.def Info: graphics/pumpkinpie.jpg used on input line 924.
+(pdftex.def)             Requested size: 480.00256pt x 132.7207pt.
+
+
+LaTeX Warning: Marginpar on page 37 moved.
+
+[37
+
+ <./graphics/pumpkinpie.jpg>] <graphics/pumpkinpiesquare.png, id=379, 686.565pt x 681.54625pt>
 File: graphics/pumpkinpiesquare.png Graphic file (type png)
  <use graphics/pumpkinpiesquare.png>
-Package pdftex.def Info: graphics/pumpkinpiesquare.png used on input line 878.
+Package pdftex.def Info: graphics/pumpkinpiesquare.png used on input line 954.
 (pdftex.def)             Requested size: 143.99432pt x 142.94174pt.
 
 
-LaTeX Warning: Marginpar on page 34 moved.
+LaTeX Warning: Marginpar on page 38 moved.
 
-<graphics/germanmess_banner.png, id=370, 932.48375pt x 191.71625pt>
+<graphics/germanmess_banner.png, id=380, 932.48375pt x 191.71625pt>
 File: graphics/germanmess_banner.png Graphic file (type png)
  <use graphics/germanmess_banner.png>
-Package pdftex.def Info: graphics/germanmess_banner.png used on input line 907.
+Package pdftex.def Info: graphics/germanmess_banner.png used on input line 983.
 (pdftex.def)             Requested size: 479.99973pt x 98.68669pt.
- [34 <./graphics/pumpkinpiesquare.png> <./graphics/germanmess_banner.png>] (/Users/Jimmy/Dropbox/Personal/DadsRecipes/RecipeBook/TufteStyle/.texpadtmp/cookbook.ind [35
+ [38 <./graphics/pumpkinpiesquare.png> <./graphics/germanmess_banner.png>] (/Users/Jimmy/Dropbox/Personal/DadsRecipes/RecipeBook/TufteStyle/.texpadtmp/cookbook.ind [39
 
-] [36
+] [40
 
 ])
 No file cookbook-recipe.ind.
@@ -875,29 +885,29 @@ Package bibentry Warning: You have used \nobibliography*
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 921.
-[37]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 921.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 997.
+[41]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 997.
  (/Users/Jimmy/Dropbox/Personal/DadsRecipes/RecipeBook/TufteStyle/.texpadtmp/cookbook.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 921.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 921.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 997.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 997.
 Package rerunfilecheck Info: File `cookbook.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 921.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 997.
  ) 
 Here is how much of TeX's memory you used:
- 11140 strings out of 493488
- 159245 string characters out of 3141326
- 363785 words of memory out of 3000000
- 14109 multiletter control sequences out of 15000+200000
+ 11165 strings out of 493488
+ 159756 string characters out of 3141326
+ 364793 words of memory out of 3000000
+ 14125 multiletter control sequences out of 15000+200000
  83685 words of font info for 104 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 40i,12n,45p,482b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,12n,45p,511b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /Users/Jimmy/Dropbox/Personal/DadsRecipes/RecipeBook/TufteStyle/.texpadtmp/cookbook.pdf (37 pages, 6843520 bytes).
+Output written on /Users/Jimmy/Dropbox/Personal/DadsRecipes/RecipeBook/TufteStyle/.texpadtmp/cookbook.pdf (41 pages, 31828329 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 406 compressed objects within 5 object streams
- 74 named destinations out of 1000 (max. 500000)
- 3922 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 508 PDF objects out of 1000 (max. 8388607)
+ 413 compressed objects within 5 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 3953 words of extra memory for PDF output out of 10000 (max. 10000000)
 
