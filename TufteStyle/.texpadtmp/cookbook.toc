@@ -14,7 +14,7 @@
 \contentsline {section}{Phat thai}{22}{section*.16}
 \contentsline {section}{Paella}{23}{section*.17}
 \contentsline {section}{Pork and Prune Pie}{24}{section*.18}
-\contentsline {section}{Moroccan lamb}{24}{section*.19}
+\contentsline {section}{Moroccan lamb}{25}{section*.19}
 \contentsline {chapter}{Vegetarian curries}{27}{chapter*.20}
 \contentsline {section}{Carrot sambal}{27}{section*.21}
 \contentsline {section}{Fried potatoes}{27}{section*.22}
