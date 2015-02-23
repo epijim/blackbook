@@ -1,46 +1,51 @@
 \contentsline {chapter}{Brunch}{13}{chapter*.3}
 \contentsline {section}{Breakfast burritos}{13}{section*.4}
-\contentsline {section}{Kedgeree}{13}{section*.5}
-\contentsline {section}{Crisp omellete}{14}{section*.6}
-\contentsline {section}{Plum cake}{15}{section*.7}
+\contentsline {section}{Kedgeree}{14}{section*.5}
+\contentsline {section}{Crisp omellete}{15}{section*.6}
+\contentsline {section}{Plum cake}{16}{section*.7}
 \contentsline {chapter}{Starters}{17}{chapter*.8}
 \contentsline {section}{Beetroot hummus}{17}{section*.9}
 \contentsline {section}{Masala pancakes}{17}{section*.10}
 \contentsline {section}{Potato and leek soup}{19}{section*.11}
-\contentsline {chapter}{Sides}{21}{chapter*.12}
-\contentsline {section}{Roast potato with lemon and olives}{21}{section*.13}
-\contentsline {section}{Parmesan courgette ribbons}{21}{section*.14}
-\contentsline {chapter}{Vegetarian}{23}{chapter*.15}
-\contentsline {section}{Buttercup pumpkin, corn and bean stew}{23}{section*.16}
-\contentsline {section}{Couscous with spinach, almonds and feta}{23}{section*.17}
-\contentsline {section}{Spinach, blue cheese and pear salad}{24}{section*.18}
-\contentsline {chapter}{Mains}{25}{chapter*.19}
-\contentsline {section}{Roast pork belly with apple and sweet potato mash}{25}{section*.20}
-\contentsline {section}{Black pudding, pea, peanut, mushroom and spinach ragout}{27}{section*.21}
-\contentsline {section}{Lamb with mustard and mint}{27}{section*.22}
-\contentsline {section}{Anchovy and breadcrumb pasta }{28}{section*.23}
-\contentsline {section}{Phat thai}{29}{section*.24}
-\contentsline {section}{Paella}{30}{section*.25}
-\contentsline {section}{Pork and Prune Pie}{31}{section*.26}
-\contentsline {section}{Moroccan lamb}{32}{section*.27}
-\contentsline {chapter}{Vegetarian curries}{33}{chapter*.28}
-\contentsline {section}{Carrot sambal}{33}{section*.29}
-\contentsline {section}{Fried potatoes}{33}{section*.30}
-\contentsline {section}{Curried carrots}{34}{section*.31}
-\contentsline {section}{Spinach and coconut cream}{34}{section*.32}
-\contentsline {section}{Leek curry with cashew nuts}{34}{section*.33}
-\contentsline {section}{Pumpkin curry}{35}{section*.34}
-\contentsline {chapter}{Nana's curries}{37}{chapter*.35}
-\contentsline {section}{Nana's brinjal}{37}{section*.36}
-\contentsline {section}{Curried vegetables}{37}{section*.37}
-\contentsline {section}{Nana's dahl}{38}{section*.38}
-\contentsline {section}{Nana's chicken curry}{39}{section*.39}
-\contentsline {chapter}{Meat curries}{41}{chapter*.40}
-\contentsline {section}{Lamb curry}{41}{section*.41}
-\contentsline {section}{Chicken curry (Scottish style)}{42}{section*.42}
-\contentsline {section}{Thai chicken curry}{43}{section*.43}
-\contentsline {chapter}{Dessert}{45}{chapter*.44}
-\contentsline {section}{Pumpkin pie}{45}{section*.45}
-\contentsline {section}{German mess}{46}{section*.46}
-\contentsline {chapter}{Index}{49}{chapter*.47}
+\contentsline {section}{Baked camembert}{19}{section*.12}
+\contentsline {chapter}{Sides}{21}{chapter*.13}
+\contentsline {section}{Roast potato with lemon and olives}{21}{section*.14}
+\contentsline {section}{Parmesan courgette ribbons}{21}{section*.15}
+\contentsline {section}{Parmesan courgette ribbons}{21}{section*.16}
+\contentsline {chapter}{Vegetarian}{23}{chapter*.17}
+\contentsline {section}{Buttercup pumpkin, corn and bean stew}{23}{section*.18}
+\contentsline {section}{Couscous with spinach, almonds and feta}{23}{section*.19}
+\contentsline {section}{Spinach, blue cheese and pear salad}{24}{section*.20}
+\contentsline {chapter}{Mains}{27}{chapter*.21}
+\contentsline {section}{Oxtail stew}{27}{section*.22}
+\contentsline {section}{Roast pork belly with apple and sweet potato mash}{30}{section*.23}
+\contentsline {section}{Bo Ssam}{32}{section*.24}
+\contentsline {section}{Black pudding, pea, peanut, mushroom and spinach ragout}{34}{section*.25}
+\contentsline {section}{Anchovy and breadcrumb pasta }{36}{section*.26}
+\contentsline {section}{Pork and Prune Pie}{37}{section*.27}
+\contentsline {section}{Moroccan lamb}{38}{section*.28}
+\contentsline {section}{Paella}{39}{section*.29}
+\contentsline {section}{Phat thai}{40}{section*.30}
+\contentsline {section}{Honey soy chicken}{41}{section*.31}
+\contentsline {section}{Fleur's fish rarebit}{42}{section*.32}
+\contentsline {chapter}{Vegetarian curries}{43}{chapter*.33}
+\contentsline {section}{Carrot sambal}{43}{section*.34}
+\contentsline {section}{Fried potatoes}{43}{section*.35}
+\contentsline {section}{Curried carrots}{44}{section*.36}
+\contentsline {section}{Spinach and coconut cream}{44}{section*.37}
+\contentsline {section}{Leek curry with cashew nuts}{44}{section*.38}
+\contentsline {section}{Pumpkin curry}{45}{section*.39}
+\contentsline {chapter}{Nana's curries}{47}{chapter*.40}
+\contentsline {section}{Nana's brinjal}{47}{section*.41}
+\contentsline {section}{Curried vegetables}{47}{section*.42}
+\contentsline {section}{Nana's dahl}{48}{section*.43}
+\contentsline {section}{Nana's chicken curry}{49}{section*.44}
+\contentsline {chapter}{Meat curries}{51}{chapter*.45}
+\contentsline {section}{Lamb curry}{51}{section*.46}
+\contentsline {section}{Chicken curry (Scottish style)}{52}{section*.47}
+\contentsline {section}{Thai chicken curry}{53}{section*.48}
+\contentsline {chapter}{Dessert}{55}{chapter*.49}
+\contentsline {section}{Pumpkin pie}{55}{section*.50}
+\contentsline {section}{German mess}{56}{section*.51}
+\contentsline {chapter}{Index}{59}{chapter*.52}
 \contentsfinish 
