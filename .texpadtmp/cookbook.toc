@@ -1,0 +1,57 @@
+\contentsline {chapter}{Brunch}{11}{chapter*.2}
+\contentsline {section}{Breakfast burritos}{11}{section*.3}
+\contentsline {section}{Turkish eggs}{12}{section*.4}
+\contentsline {section}{Kedgeree}{13}{section*.5}
+\contentsline {section}{Crisp omelette}{14}{section*.6}
+\contentsline {section}{Asparagus, mushroom, eggs \& garlic crumbs}{15}{section*.7}
+\contentsline {section}{Potato scones}{16}{section*.8}
+\contentsline {section}{Plum cake}{17}{section*.9}
+\contentsline {chapter}{Starters}{19}{chapter*.10}
+\contentsline {section}{Beetroot hummus}{19}{section*.11}
+\contentsline {section}{Masala pancakes}{19}{section*.12}
+\contentsline {section}{Potato and leek soup}{21}{section*.13}
+\contentsline {section}{Baked camembert}{21}{section*.14}
+\contentsline {section}{Focaccia}{22}{section*.15}
+\contentsline {chapter}{Vegetarian}{23}{chapter*.16}
+\contentsline {section}{French onion soup}{23}{section*.17}
+\contentsline {section}{Pumpkin and coconut stew}{24}{section*.18}
+\contentsline {section}{Couscous with spinach, almonds and feta}{24}{section*.19}
+\contentsline {section}{Spinach, blue cheese and pear salad}{25}{section*.20}
+\contentsline {section}{Glass nuts with blue cheese and caramelised pears}{26}{section*.21}
+\contentsline {section}{Kale lasagne}{27}{section*.22}
+\contentsline {section}{Cheese fondue}{29}{section*.23}
+\contentsline {section}{Red wine risotto with blue cheese}{31}{section*.24}
+\contentsline {chapter}{Mains}{33}{chapter*.25}
+\contentsline {section}{Oxtail stew}{33}{section*.26}
+\contentsline {section}{Roast pork belly with apple and sweet potato mash}{35}{section*.27}
+\contentsline {section}{Bo Ssam}{37}{section*.28}
+\contentsline {section}{Black pudding, pea, peanut, mushroom and spinach ragout}{39}{section*.29}
+\contentsline {section}{Chicken roulade}{40}{section*.30}
+\contentsline {section}{Jerk chicken}{41}{section*.31}
+\contentsline {section}{Greek chicken}{42}{section*.32}
+\contentsline {section}{Honey soy chicken}{43}{section*.33}
+\contentsline {section}{Fried chicken sandwich}{44}{section*.34}
+\contentsline {section}{Chicken doner}{45}{section*.35}
+\contentsline {section}{Lamb with mustard and mint}{46}{section*.36}
+\contentsline {section}{Gnocchi with celery leaves and w{\"u}rst}{47}{section*.37}
+\contentsline {section}{Anchovy and breadcrumb pasta }{48}{section*.38}
+\contentsline {section}{Pork and Prune Pie}{49}{section*.39}
+\contentsline {section}{Moroccan lamb}{50}{section*.40}
+\contentsline {section}{Paella}{51}{section*.41}
+\contentsline {section}{Phat thai}{52}{section*.42}
+\contentsline {section}{Fleur's fish rarebit}{53}{section*.43}
+\contentsline {section}{Pumpkin seed and dill crusted cod}{54}{section*.44}
+\contentsline {chapter}{Nana's curries}{55}{chapter*.45}
+\contentsline {section}{Nana's brinjal}{55}{section*.46}
+\contentsline {section}{Curried vegetables}{56}{section*.47}
+\contentsline {section}{Nana's dahl}{56}{section*.48}
+\contentsline {section}{Nana's chicken curry}{57}{section*.49}
+\contentsline {chapter}{Meat curries}{59}{chapter*.50}
+\contentsline {section}{Lamb curry}{59}{section*.51}
+\contentsline {section}{Chicken curry (Scottish style)}{60}{section*.52}
+\contentsline {section}{Thai chicken curry}{62}{section*.53}
+\contentsline {chapter}{Dessert}{63}{chapter*.54}
+\contentsline {section}{Pumpkin pie}{63}{section*.55}
+\contentsline {section}{German mess}{64}{section*.56}
+\contentsline {chapter}{Index}{67}{chapter*.57}
+\contentsfinish 
